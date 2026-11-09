@@ -1,0 +1,6 @@
+{
+  "name": "TRAPSHIFT",
+  "description": "One More Try. One More Trap. An offline 2D puzzle arcade game with intelligent traps, handcrafted levels, endless challenges, and daily puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
